@@ -63,103 +63,7 @@
     <favorites_list name="DesignPatterns" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="AppleAdapterTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/adapter/AppleAdapterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="10" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ITV.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/ITV.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="43" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SamsungTV.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/SamsungTV.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="60" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SonyTV.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/SonyTV.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="56" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractRemoteControl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/AbstractRemoteControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="34" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogitechRemoteControl.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/LogitechRemoteControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="16" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-info.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/package-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="3" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Composite.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/composite/Composite.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="18" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="840">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#647#658#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompositeTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/composite/CompositeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="11" selection-start="560" selection-end="560" vertical-scroll-proportion="0.55263156" vertical-offset="0" max-vertical-offset="585">
-              <folding>
-                <marker date="1386748932000" expanded="true" signature="318:822" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogitechRemoteControlTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/bridge/LogitechRemoteControlTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="30" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -169,23 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/desginpatterns/test/TestSingleton.java" />
-        <option value="$PROJECT_DIR$/src/test/java/fff/TestSingleton.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/TestSingleton.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/TestSingleton.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/singleton/TestSingleton.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/singleton/AmericaPresidentTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/factory/HumanFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/singleton/AmericaPresident.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/factory/HumanFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/abstractfactory/Client.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/abstractfactory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/abstractfactory/AbstractFactoryTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/builder/CustomerTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/builder/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/prototype/PrototypePattern.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/prototype/PrototypePatternTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/adapter/AppleAdapter.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/adapter/AppleAdapterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/ITV.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/SamsungTV.java" />
@@ -196,6 +83,47 @@
         <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/package-info.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/composite/Composite.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/composite/CompositeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/AmericanGirl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/Girl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/EuropeanGirl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/GirlDecorator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/Science.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/Art.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/decorator/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/facade/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/facade/Facade.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/facade/Computer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/facade/ComputerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/flyweight/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/flyweight/Waitress.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/flyweight/WaitressTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/proxy/Proxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/observer/Observer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/observer/ObserverTestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/observer/ObserverTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/observer/SimpleSwingExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/state/StateContextTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/state/StateContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/strategy/StrategyTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/strategy/StrategyTestTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/strategy/package-info.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/visitor/TestVisitor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/visitor/TestVisitorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/observer/SimpleSwingExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/templatemethod/TestTemplateMethod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/chainofresponsibility/ChainOfResponsibilityExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/chainofresponsibility/ChainOfResponsibilityExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/command/CommandExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/command/CommandExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/iterator/IteratorExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/iterator/IteratorExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/interpreter/InterpreterExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/interpreter/InterpreterExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/mediator/MediatorExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/mediator/MediatorExampleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/memento/You.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/memento/YouTest.java" />
       </list>
     </option>
   </component>
@@ -203,8 +131,8 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="934" />
-    <option name="y" value="28" />
+    <option name="x" value="978" />
+    <option name="y" value="24" />
     <option name="width" value="983" />
     <option name="height" value="1056" />
   </component>
@@ -234,8 +162,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -258,8 +184,68 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DesignPatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="designpatterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,57 +269,31 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.programcreek.designpatterns.composite" />
-      <recent name="com.programcreek.designpatterns.bridge" />
-      <recent name="com.programcreek.designpatterns.adapter" />
-      <recent name="com.programcreek.designpatterns.prototype" />
-      <recent name="com.programcreek.designpatterns.builder" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.programcreek.designpatterns.memento" />
+      <recent name="com.programcreek.designpatterns.mediator" />
+      <recent name="com.programcreek.designpatterns.interpreter" />
+      <recent name="com.programcreek.designpatterns.iterator" />
+      <recent name="com.programcreek.designpatterns.command" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.programcreek.designpatterns.singleton" />
       <recent name="com.programcreek.designpatterns" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
-    </key>
   </component>
-  <component name="RunManager" selected="JUnit.com.programcreek.designpatterns.composite in DesignPatterns">
-    <configuration default="false" name="DesignPatterns [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
-      <MavenSettings>
-        <option name="myGeneralSettings" />
-        <option name="myRunnerSettings" />
-        <option name="myRunnerParameters">
-          <MavenRunnerParameters>
-            <option name="profiles">
-              <set />
-            </option>
-            <option name="goals">
-              <list>
-                <option value="test" />
-              </list>
-            </option>
-            <option name="profilesMap">
-              <map />
-            </option>
-            <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$" />
-          </MavenRunnerParameters>
-        </option>
-      </MavenSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="com.programcreek.designpatterns.adapter in DesignPatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.com.programcreek.designpatterns.memento in DesignPatterns">
+    <configuration default="false" name="com.programcreek.designpatterns.command in DesignPatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignPatterns" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.programcreek.designpatterns.adapter" />
+      <option name="PACKAGE_NAME" value="com.programcreek.designpatterns.command" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
@@ -351,11 +311,11 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="com.programcreek.designpatterns.bridge in DesignPatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="com.programcreek.designpatterns.iterator in DesignPatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignPatterns" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.programcreek.designpatterns.bridge" />
+      <option name="PACKAGE_NAME" value="com.programcreek.designpatterns.iterator" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
@@ -373,11 +333,55 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="com.programcreek.designpatterns.composite in DesignPatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="com.programcreek.designpatterns.interpreter in DesignPatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignPatterns" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.programcreek.designpatterns.composite" />
+      <option name="PACKAGE_NAME" value="com.programcreek.designpatterns.interpreter" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.programcreek.designpatterns.mediator in DesignPatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPatterns" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.programcreek.designpatterns.mediator" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="com.programcreek.designpatterns.memento in DesignPatterns" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPatterns" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.programcreek.designpatterns.memento" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="package" />
@@ -399,26 +403,6 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
@@ -443,25 +427,32 @@
       </MavenSettings>
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -489,6 +480,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -544,18 +548,20 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Maven.DesignPatterns [test]" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.adapter in DesignPatterns" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.bridge in DesignPatterns" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.composite in DesignPatterns" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.command in DesignPatterns" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.iterator in DesignPatterns" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.interpreter in DesignPatterns" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.mediator in DesignPatterns" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.memento in DesignPatterns" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.composite in DesignPatterns" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.bridge in DesignPatterns" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.adapter in DesignPatterns" />
-        <item index="3" class="java.lang.String" itemvalue="Maven.DesignPatterns [test]" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.memento in DesignPatterns" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.mediator in DesignPatterns" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.interpreter in DesignPatterns" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.iterator in DesignPatterns" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.com.programcreek.designpatterns.command in DesignPatterns" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -590,16 +596,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="934" y="28" width="983" height="1056" extended-state="0" />
+    <frame x="978" y="24" width="983" height="1056" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39978564" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -608,17 +614,44 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16791444" sideWeight="0.67025864" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28542304" sideWeight="0.67025864" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294979" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28541002" sideWeight="0.67025864" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32583067" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290461" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28542304" sideWeight="0.67025864" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32740587" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16791444" sideWeight="0.67025864" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297414" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USERS">
@@ -641,187 +674,282 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/builder/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1740">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/prototype/PrototypePattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="24" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="840">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/prototype/PrototypePatternTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="32" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/singleton/AmericaPresident.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/factory/HumanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="17" selection-start="958" selection-end="958" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/singleton/AmericaPresident.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="10" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/factory/HumanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="80" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/singleton/AmericaPresidentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="23" selection-start="402" selection-end="402" vertical-scroll-proportion="0.37751678" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="10" selection-start="661" selection-end="661" vertical-scroll-proportion="0.46312177" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/factory/HumanFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="22" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/abstractfactory/AbstractFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="74" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/abstractfactory/AbstractFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="57" selection-start="1050" selection-end="1050" vertical-scroll-proportion="0.7802013" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/builder/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="3" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/prototype/PrototypePattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="2" selection-start="760" selection-end="760" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/adapter/AppleAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="18" selection-start="528" selection-end="528" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/builder/CustomerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="23" selection-start="351" selection-end="351" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/prototype/PrototypePatternTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="32" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
+        <state line="14" column="32" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/adapter/AppleAdapterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="10" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <folding />
-        </state>
+        <state line="13" column="10" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/ITV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="43" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
+        <state line="12" column="43" selection-start="331" selection-end="331" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/SamsungTV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="60" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="23" column="60" selection-start="581" selection-end="581" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/SonyTV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="56" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="22" column="56" selection-start="562" selection-end="562" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/AbstractRemoteControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="34" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="25" column="34" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/bridge/LogitechRemoteControlTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="30" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="13" column="30" selection-start="325" selection-end="325" vertical-scroll-proportion="0.20990312" vertical-offset="0" max-vertical-offset="929" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/LogitechRemoteControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <folding />
-        </state>
+        <state line="7" column="16" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/bridge/package-info.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="3" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
+        <state line="7" column="3" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/composite/Composite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="18" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="840">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#647#658#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="31" column="18" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="840" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/composite/CompositeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="11" selection-start="560" selection-end="560" vertical-scroll-proportion="0.55263156" vertical-offset="0" max-vertical-offset="585">
+        <state line="21" column="11" selection-start="560" selection-end="560" vertical-scroll-proportion="0.33907428" vertical-offset="0" max-vertical-offset="929" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/EuropeanGirl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="34" selection-start="326" selection-end="326" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/Girl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="41" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/decorator/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="19" selection-start="345" selection-end="345" vertical-scroll-proportion="0.34201956" vertical-offset="0" max-vertical-offset="614">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/facade/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="4" selection-start="454" selection-end="454" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/facade/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="18" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/facade/ComputerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="23" selection-start="394" selection-end="394" vertical-scroll-proportion="0.37437603" vertical-offset="0" max-vertical-offset="601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/flyweight/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="3" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/flyweight/Waitress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="24" selection-start="2065" selection-end="2065" vertical-scroll-proportion="0.0" vertical-offset="575" max-vertical-offset="1530" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/flyweight/WaitressTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="23" selection-start="353" selection-end="353" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/proxy/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="25" selection-start="1091" selection-end="1091" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="930" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/observer/ObserverTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="27" selection-start="360" selection-end="360" vertical-scroll-proportion="0.39399624" vertical-offset="0" max-vertical-offset="533" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/observer/SimpleSwingExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="25" selection-start="369" selection-end="369" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/state/StateContextTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="27" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/state/StateContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="36" selection-start="416" selection-end="416" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/strategy/StrategyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="25" selection-start="1049" selection-end="1049" vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="930" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/strategy/StrategyTestTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="27" selection-start="361" selection-end="361" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/strategy/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="64" selection-start="445" selection-end="445" vertical-scroll-proportion="0.37437603" vertical-offset="0" max-vertical-offset="601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/visitor/TestVisitorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="358" selection-end="358" vertical-scroll-proportion="0.34941763" vertical-offset="0" max-vertical-offset="601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/visitor/TestVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="24" selection-start="1777" selection-end="1777" vertical-scroll-proportion="0.7004992" vertical-offset="704" max-vertical-offset="1305" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/templatemethod/TestTemplateMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="26" selection-start="1165" selection-end="1168" vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="1185" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/chainofresponsibility/ChainOfResponsibilityExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="24" selection-start="2081" selection-end="2081" vertical-scroll-proportion="0.0" vertical-offset="729" max-vertical-offset="1665" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/chainofresponsibility/ChainOfResponsibilityExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="43" selection-start="405" selection-end="405" vertical-scroll-proportion="0.34941763" vertical-offset="0" max-vertical-offset="601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/command/CommandExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="25" selection-start="1561" selection-end="1561" vertical-scroll-proportion="0.0" vertical-offset="824" max-vertical-offset="1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/command/CommandExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="58" selection-start="372" selection-end="372" vertical-scroll-proportion="0.42429283" vertical-offset="0" max-vertical-offset="601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/iterator/IteratorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="25" selection-start="1185" selection-end="1185" vertical-scroll-proportion="0.0" vertical-offset="404" max-vertical-offset="1005" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/iterator/IteratorExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="30" selection-start="366" selection-end="366" vertical-scroll-proportion="0.34941763" vertical-offset="0" max-vertical-offset="601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="24" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/Science.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="25" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/AmericanGirl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="306" selection-end="306" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/GirlDecorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="20" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/decorator/Art.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="45" selection-start="539" selection-end="539" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/interpreter/InterpreterExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="33" selection-start="375" selection-end="375" vertical-scroll-proportion="0.34941763" vertical-offset="0" max-vertical-offset="601" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.7.0_25/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="533" column="20" selection-start="19710" selection-end="19710" vertical-scroll-proportion="0.0" vertical-offset="26951" max-vertical-offset="46140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/interpreter/InterpreterExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="53" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0" vertical-offset="628" max-vertical-offset="1335" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/observer/SimpleSwingExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/observer/ObserverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="62" selection-start="1461" selection-end="1461" vertical-scroll-proportion="0.88538206" vertical-offset="487" max-vertical-offset="1395">
           <folding>
-            <marker date="1386748932000" expanded="true" signature="318:822" placeholder="{...}" />
+            <element signature="e#1158#1159#0" expanded="false" />
+            <element signature="e#1190#1191#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/mediator/MediatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="25" selection-start="1556" selection-end="1556" vertical-scroll-proportion="0.0" vertical-offset="472" max-vertical-offset="1380">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/mediator/MediatorExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="30" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <folding>
+            <marker date="1387280952000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/programcreek/designpatterns/memento/You.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="25" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="298" max-vertical-offset="1005">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#1041#1055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/programcreek/designpatterns/memento/YouTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="341" selection-end="341" vertical-scroll-proportion="0.3488372" vertical-offset="0" max-vertical-offset="602">
+          <folding />
         </state>
       </provider>
     </entry>
